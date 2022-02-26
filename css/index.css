@@ -76,6 +76,7 @@ h6 {
 /* MOBILE FIRST - 375px */
 
 body {
+  background-color: #f2f2f2;
   font-family: "Lexend Deca", sans-serif;
   color: rgba(255, 255, 255, 0.75);
   font-weight: 400;
